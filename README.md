@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @alexifeu
-- 👀 I’m interested in Videogames
-- 🌱 I’m currently learning HTML
+- 👀 I’m interested in Videogames and Anime
+- 🌱 I’m currently learning HTML, CSS, PHP, C, JavaScript and Java.
 - 💞️ I’m looking to collaborate on my Website
-- 📫 How to reach me @Alexifeu IG
+- 📫 How to reach me @Alexifeu on Instagram
